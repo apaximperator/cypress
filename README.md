@@ -21,3 +21,4 @@ This is an example project demonstrating how to use Cypress for automated testin
 ```bash
   cypress run
 ```   
+After running the tests, a report will be generated in the reports folder.
