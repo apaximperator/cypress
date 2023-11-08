@@ -2,6 +2,11 @@
   "name": "cypress",
   "version": "1.0.0",
   "devDependencies": {
-    "cypress": "*"
+    "@shelex/cypress-allure-plugin": "^2.40.0",
+    "cypress": "*",
+    "cypress-mochawesome-reporter": "^3.6.1"
+  },
+  "dependencies": {
+    "save-dev": "^0.0.1-security"
   }
 }
